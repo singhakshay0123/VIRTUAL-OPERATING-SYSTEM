@@ -1,1 +1,1 @@
-# group-50
+It is a virtual operating system for running apps in it.
